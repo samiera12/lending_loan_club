@@ -38,11 +38,12 @@ To identify high-risk loan applicants based on historical loan and financial dat
 ---
 
 ## Requirements
--pandas
--numpy
--scikit-learn
--imbalanced-learn
--matplotlib
+
+- pandas
+- numpy
+- scikit-learn
+- imbalanced-learn
+- matplotlib
 
 ---
 
